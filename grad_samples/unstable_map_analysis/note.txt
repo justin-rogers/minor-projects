@@ -1,0 +1,1 @@
+In this project, I calculated a real function f such that f(f(f(f(f(f(0)))))) is an unstable fixed point. The short animation demonstrates a sensitive dependence on initial conditions (i.e. "Butterfly Effect").

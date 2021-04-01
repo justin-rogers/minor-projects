@@ -1,0 +1,4 @@
+Some analysis of an elastic PDE.
+
+Dependency note: Dolfin installation can be a hassle if your environment is
+unsupported, but they provide a good Docker image.
